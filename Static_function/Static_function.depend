@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1711408801 source:c:\users\harmit\desktop\c\neso\static_function\file1.c
+
+1711408773 source:c:\users\harmit\desktop\c\neso\static_function\main.c
+	<stdio.h>
+	<stdlib.h>
+
