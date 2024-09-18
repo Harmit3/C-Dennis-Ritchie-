@@ -1,9 +1,9 @@
 #include <stdio.h>
 
-main(){
+int main(){
 
   printf("Neso Academy"); //write code for print neso acdemy on console window!!
 
 
-  return 'a'
+  return 0;
 }
